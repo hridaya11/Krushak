@@ -182,9 +182,3 @@ Contributions make the open-source community an amazing place to learn, inspire,
 This project is distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-## Contact
-
-Iffat - [Your Portfolio Link] - [Your Email Address]
-
-Project Link: [https://github.com/iffat1404/FarmKart](https://github.com/iffat1404/FarmKart)
